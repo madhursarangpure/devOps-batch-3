@@ -1,0 +1,15 @@
+ 1044  git init
+ 1045  ls
+ 1046  git add .
+ 1047  git status
+ 1048  git commit -m "please add 3 file"
+ 1049  ls -la
+ 1050  cd .git
+ 1051  ls
+ 1052  cd ..
+ 1053  ls
+ 1054  cd .git
+ 1055  ls
+ 1056  ls -ll
+ 1057  cd ..
+ 1058  clear
