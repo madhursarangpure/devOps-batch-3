@@ -1,2 +1,2 @@
 this is a new dev file
-added chnages to feature 3
+this is modified file
